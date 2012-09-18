@@ -1,0 +1,10 @@
+{
+  "name": "dynamo",
+  "version": "0.7.0",
+  "description": "DynamoDB thing",
+  "main": "dynamo.js",
+  "dependencies": {
+    "express": ">= 3.0.0rc4",
+    "dynamo": ">=0.2.13"
+  }
+}

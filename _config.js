@@ -1,0 +1,4 @@
+{
+  "accessKeyId": "x",
+  "secretAccessKey": "y"
+}
